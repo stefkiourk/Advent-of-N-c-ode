@@ -1,0 +1,9 @@
+{
+  "name": "advent-of-node",
+  "version": "1.0.0",
+  "description": "Experimental JS-based solutions for https://adventofcode.com, 2019",
+  "main": "solution.js",
+  "author": "Stef Ki",
+  "license": "ISC"
+}
+ 
