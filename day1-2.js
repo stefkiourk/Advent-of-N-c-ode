@@ -9,5 +9,5 @@ require("fs").readFile('./input.txt', 'utf8', (err, data) => {
         fuels.push(moduleFuel); 
     });
 
-    console.log(fuels.reduce((a, b) => a +b));
+    console.log(fuels.reduce((a, b) => a + b));
 });
